@@ -1,0 +1,19 @@
+/**
+ * 
+ */
+
+/**
+ * @author Amit
+ *
+ */
+public class TestMaven {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		System.out.println("Program run....");
+
+	}
+
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="SCH_PROJ">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp"/>
+        <property name="context-root" value="SCH_PROJ"/>
+        <property name="java-output-path" value="/SCH_PROJ/target/classes"/>
+    </wb-module>
+</project-modules>
